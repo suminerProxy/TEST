@@ -17,7 +17,7 @@ sudo ./apphub service start
 ./apphub status
 
 # 休眠3秒
-sleep 3
+sleep 5
 
 # 配置token并重启
 sudo ./apps/gaganode/gaganode config set --token=hesbxducrynlhdxifee6336a5e279047 \
